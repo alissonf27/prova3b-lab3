@@ -40,7 +40,7 @@
                 margin: 100px auto; 
                 padding: 10px; 
                 width: 330px;
-                height: 345px; 
+                height: auto; 
                 border: 1px solid black;
             }
             
